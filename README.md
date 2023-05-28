@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Avoid creating -hub dir without processing images (#8334)
