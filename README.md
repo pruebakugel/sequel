@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Update the heatmap module code + docs (#7045)
