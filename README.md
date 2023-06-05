@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
