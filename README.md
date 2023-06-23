@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Explorer with LanceDB, Actions and Docs updates (#7487)
