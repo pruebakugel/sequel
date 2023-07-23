@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
