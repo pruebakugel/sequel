@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
