@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Pass callbacks to validator (#7320)
