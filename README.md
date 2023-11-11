@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Feature: Create HUB Models from CLI or Python Script (#7316)
