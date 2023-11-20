@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
