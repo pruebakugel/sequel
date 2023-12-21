@@ -1,1 +1,1 @@
-fix predict with class filter
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
