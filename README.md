@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
