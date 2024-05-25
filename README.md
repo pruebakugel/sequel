@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
