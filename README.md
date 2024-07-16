@@ -1,1 +1,1 @@
-add yolov10
+Elaborate Train and Predict mode docs arguments (#8137)
