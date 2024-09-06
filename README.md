@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Add yolo_bbox2segment docs reference (#7751)
