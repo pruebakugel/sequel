@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Add PR Summary step to Ultralytics Actions (#7675)
